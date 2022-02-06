@@ -40,8 +40,8 @@
         </div>
 
         {% if site.resume_looking_for_work == 'yes' %}
-        <a href="mailto:{{ site.resume_contact_email }}" class="contact-button no-print" itemprop="email">Email</a>
-        <a href="https://api.whatsapp.com/send?phone=+919711194611&text=Hi%20Rohit%21%20How%20are%20you%3F" class="whatsapp-button no-print" itemprop="email">Whatsapp</a>
+        <center><a href="mailto:{{ site.resume_contact_email }}" class="contact-button no-print" itemprop="email">Email</a>
+        <a href="https://api.whatsapp.com/send?phone=+919711194611&text=Hi%20Rohit%21%20How%20are%20you%3F" class="whatsapp-button no-print" itemprop="email">Whatsapp</a></center>
         {% elsif site.resume_looking_for_work == 'no' %}
         <a class="contact-button not-looking no-print">I'm not looking for work right now.</a>
         {% else %}

@@ -1,16 +1,10 @@
-# Projects
-# uncomment the urls if you wish to display them, and add your own URL
+# Recognitions
+- award: Certified Blockchain Specialist
+  organization: Coursera, University of Buffalo
+  year: 2021
+  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
-
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- award: Google Certified Project Manager
+  organization: Coursera, Google
+  year: 2021
+  summary: Awarded as Google Certified Project Manager

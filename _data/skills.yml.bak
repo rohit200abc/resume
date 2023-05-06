@@ -1,18 +1,23 @@
 # Skills
-#Product
-skill: Product Management
- description: Experienced in leading business teams in conceptualising and implementing product solutions. Specialised in digital payment product and banking domain.
- #Pricing
-skill: Pricing and Revenue Management
- description: Managind Pricing strategy, conceptualising & implementing new fee lines and generating revenue.
- #Project
-skill: Project Manangement
- description: Managing complete project lifecycle, documenting BRD, FSD, SRS etc. Conducting business analysis, skilled in JIRA, SQL and Python.
- #Solution
-skill: Solution Design and Delivery
- description: Managing resources, requirements, stakeholders, issues and risks, and project standards for the successful delivery of product/solution. Specialised in consultative sales and solution management.
- #Excel
-skill: Python, SQL, Microsoft Excel and Tableau
-#JIRA
-skill: Experienced in working with management tools viz. JIRA, VISA Intellilink, SAP Concur, TSYS Prime
- description: Crazy about Bitcoin, Decentralised Finance and Blockchain Development on Solidity powered Ethereum ecosystem. 
+# Product
+- skill: Product Management
+  description: Experienced in leading business teams in conceptualising and implementing product solutions. Specialised in digital payment product and banking domain.
+ 
+# Pricing
+- skill: Pricing and Revenue Management
+  description: Managind Pricing strategy, conceptualising & implementing new fee lines and generating revenue.
+ 
+# Project
+- skill: Project Manangement
+  description: Managing complete project lifecycle, documenting BRD, FSD, SRS etc. Conducting business analysis, skilled in JIRA, SQL and Python.
+ 
+# Solution
+- skill: Solution Design and Delivery
+  description: Managing resources, requirements, stakeholders, issues and risks, and project standards for the successful delivery of product/solution. Specialised in consultative sales and solution management.
+ 
+# Excel
+- skill: Python, SQL, Microsoft Excel and Tableau
+
+# JIRA
+- skill: Experienced in working with management tools viz. JIRA, VISA Intellilink, SAP Concur, TSYS Prime
+  description: Crazy about Bitcoin, Decentralised Finance and Blockchain Development on Solidity powered Ethereum ecosystem.
